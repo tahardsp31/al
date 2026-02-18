@@ -1,87 +1,87 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="249861" tvg-logo="http://51.158.145.100/picons/logos/arabic/249861.png" group-title="APPS | AR ALGERIA",DZ - ALGERIA | APPS TV
-http://dummy/stream/249861
-#EXTINF:-1 tvg-id="249834" tvg-logo="http://51.158.145.100/picons/logos/arabic/249834.png" group-title="APPS | AR ALGERIA",DZ - EN TV ALGERIE | APPS TV
-http://dummy/stream/249834
-#EXTINF:-1 tvg-id="249841" tvg-logo="http://51.158.145.100/picons/logos/arabic/249841.png" group-title="APPS | AR ALGERIA",DZ - A3 HD | APPS TV
-http://dummy/stream/249841
-#EXTINF:-1 tvg-id="249835" tvg-logo="http://51.158.145.100/picons/logos/arabic/249835.png" group-title="APPS | AR ALGERIA",DZ - CANAL ALGERIE | APPS TV
-http://dummy/stream/249835
-#EXTINF:-1 tvg-id="249839" tvg-logo="http://51.158.145.100/picons/logos/arabic/249839.png" group-title="APPS | AR ALGERIA",DZ - TAMAZIGH TV | APPS TV
-http://dummy/stream/249839
-#EXTINF:-1 tvg-id="249847" tvg-logo="http://51.158.145.100/picons/logos/arabic/249847.png" group-title="APPS | AR ALGERIA",DZ - TV CORAN | APPS TV
-http://dummy/stream/249847
-#EXTINF:-1 tvg-id="556869" tvg-logo="http://51.158.145.100/picons/logos/arabic/556869.png" group-title="APPS | AR ALGERIA",DZ - ALMAARIFA TV | APPS TV
-http://dummy/stream/556869
-#EXTINF:-1 tvg-id="249838" tvg-logo="http://51.158.145.100/picons/logos/arabic/249838.png" group-title="APPS | AR ALGERIA",DZ - CANAL 6 ALGERIE | APPS TV
-http://dummy/stream/249838
-#EXTINF:-1 tvg-id="556860" tvg-logo="http://51.158.145.100/picons/logos/arabic/556860.png" group-title="APPS | AR ALGERIA",DZ - WATANIA TV | APPS TV
-http://dummy/stream/556860
-#EXTINF:-1 tvg-id="249843" tvg-logo="http://51.158.145.100/picons/logos/arabic/249843.png" group-title="APPS | AR ALGERIA",DZ - ECHOROUK TV | APPS TV
-http://dummy/stream/249843
-#EXTINF:-1 tvg-id="249845" tvg-logo="http://51.158.145.100/picons/logos/arabic/249845.png" group-title="APPS | AR ALGERIA",DZ - ENNAHAR TV | APPS TV
-http://dummy/stream/249845
-#EXTINF:-1 tvg-id="457168" tvg-logo="http://51.158.145.100/picons/logos/arabic/457168.png" group-title="APPS | AR ALGERIA",DZ - EL HEDDAF TV | APPS TV
-http://dummy/stream/457168
-#EXTINF:-1 tvg-id="249848" tvg-logo="http://51.158.145.100/picons/logos/arabic/249848.png" group-title="APPS | AR ALGERIA",DZ - SAMIRA TV | APPS TV
-http://dummy/stream/249848
-#EXTINF:-1 tvg-id="249844" tvg-logo="http://51.158.145.100/picons/logos/arabic/249844.png" group-title="APPS | AR ALGERIA",DZ - ECHOROUK NEWS | APPS TV
-http://dummy/stream/249844
-#EXTINF:-1 tvg-id="716947" tvg-logo="http://51.158.145.100/picons/logos/arabic/716947.png" group-title="APPS | AR ALGERIA",DZ - AMOU YAZID TOFOLA TV | APPS TV
-http://dummy/stream/716947
-#EXTINF:-1 tvg-id="656033" tvg-logo="http://51.158.145.100/picons/logos/arabic/656033.png" group-title="APPS | AR ALGERIA",DZ - Zahra TV | APPS TV
-http://dummy/stream/656033
-#EXTINF:-1 tvg-id="249858" tvg-logo="http://51.158.145.100/picons/logos/arabic/249858.png" group-title="APPS | AR ALGERIA",DZ - BEUR TV | APPS TV
-http://dummy/stream/249858
-#EXTINF:-1 tvg-id="249860" tvg-logo="http://51.158.145.100/picons/logos/arabic/249860.png" group-title="APPS | AR ALGERIA",DZ - EL HAYAT TV ALGERIE | APPS TV
-http://dummy/stream/249860
-#EXTINF:-1 tvg-id="249855" tvg-logo="http://51.158.145.100/picons/logos/arabic/249855.png" group-title="APPS | AR ALGERIA",DZ - BAHYA TV | APPS TV
-http://dummy/stream/249855
-#EXTINF:-1 tvg-id="249859" tvg-logo="http://51.158.145.100/picons/logos/arabic/249859.png" group-title="APPS | AR ALGERIA",DZ - BERBERE TV | APPS TV
-http://dummy/stream/249859
-#EXTINF:-1 tvg-id="249854" tvg-logo="http://51.158.145.100/picons/logos/arabic/249854.png" group-title="APPS | AR ALGERIA",DZ - EL DJAZAIRIA TV | APPS TV
-http://dummy/stream/249854
-#EXTINF:-1 tvg-id="556864" tvg-logo="http://51.158.145.100/picons/logos/arabic/556864.png" group-title="APPS | AR ALGERIA",DZ - El Djazair N1 | APPS TV
-http://dummy/stream/556864
-#EXTINF:-1 tvg-id="249856" tvg-logo="http://51.158.145.100/picons/logos/arabic/249856.png" group-title="APPS | AR ALGERIA",DZ - AL MAGHARIBIA | APPS TV
-http://dummy/stream/249856
-#EXTINF:-1 tvg-id="249857" tvg-logo="http://51.158.145.100/picons/logos/arabic/249857.png" group-title="APPS | AR ALGERIA",DZ - EL BILAD TV | APPS TV
-http://dummy/stream/249857
-#EXTINF:-1 tvg-id="558042" tvg-logo="http://51.158.145.100/picons/logos/arabic/558042.png" group-title="APPS | AR ALGERIA",DZ - AL ANIS TV | APPS TV
-http://dummy/stream/558042
-#EXTINF:-1 tvg-id="698790" tvg-logo="http://51.158.145.100/picons/logos/arabic/698790.png" group-title="APPS | AR ALGERIA",DZ - EL FAJR DRAMA | APPS TV
-http://dummy/stream/698790
-#EXTINF:-1 tvg-id="1079359" tvg-logo="http://51.158.145.100/picons/logos/arabic/1079359.png" group-title="APPS | AR ALGERIA",DZ - ALGERIA ONE TV HD | APPS TV
-http://dummy/stream/1079359
-#EXTINF:-1 tvg-id="249837" tvg-logo="http://51.158.145.100/picons/logos/arabic/249837.png" group-title="APPS | AR ALGERIA",DZ - ALGERIA TV CORAN | APPS TV
-http://dummy/stream/249837
-#EXTINF:-1 tvg-id="698792" tvg-logo="http://51.158.145.100/picons/logos/arabic/698792.png" group-title="APPS | AR ALGERIA",DZ - ALGERIAN 4KIDS | APPS TV
-http://dummy/stream/698792
-#EXTINF:-1 tvg-id="648877" tvg-logo="http://51.158.145.100/picons/logos/arabic/648877.png" group-title="APPS | AR ALGERIA",DZ - AL24 NEWS | APPS TV
-http://dummy/stream/648877
-#EXTINF:-1 tvg-id="249852" tvg-logo="http://51.158.145.100/picons/logos/arabic/249852.png" group-title="APPS | AR ALGERIA",DZ - DZAIR JANNAH | APPS TV
-http://dummy/stream/249852
-#EXTINF:-1 tvg-id="249846" tvg-logo="http://51.158.145.100/picons/logos/arabic/249846.png" group-title="APPS | AR ALGERIA",DZ - MISR QURAN KAREEM | APPS TV
-http://dummy/stream/249846
-#EXTINF:-1 tvg-id="249836" tvg-logo="http://51.158.145.100/picons/logos/arabic/249836.png" group-title="APPS | AR ALGERIA",DZ - TV5 MONDE STYLE | APPS TV
-http://dummy/stream/249836
-#EXTINF:-1 tvg-id="556868" tvg-logo="http://51.158.145.100/picons/logos/arabic/556868.png" group-title="APPS | AR ALGERIA",DZ - ALGÉRIE CANAL TV 2 | APPS TV
-http://dummy/stream/556868
-#EXTINF:-1 tvg-id="720724" tvg-logo="http://51.158.145.100/picons/logos/arabic/720724.png" group-title="APPS | AR ALGERIA",DZ - EL FAJR DRAMA | APPS TV
-http://dummy/stream/720724
-#EXTINF:-1 tvg-id="556867" tvg-logo="http://51.158.145.100/picons/logos/arabic/556867.png" group-title="APPS | AR ALGERIA",DZ - BEUR TV | APPS TV
-http://dummy/stream/556867
-#EXTINF:-1 tvg-id="556861" tvg-logo="http://51.158.145.100/picons/logos/arabic/556861.png" group-title="APPS | AR ALGERIA",DZ - AL SAHRAA | APPS TV
-http://dummy/stream/556861
-#EXTINF:-1 tvg-id="573169" tvg-logo="http://51.158.145.100/picons/logos/arabic/573169.png" group-title="APPS | AR ALGERIA",DZ - ELDJAZAIR N1 TV | APPS TV
-http://dummy/stream/573169
-#EXTINF:-1 tvg-id="573168" tvg-logo="http://51.158.145.100/picons/logos/arabic/573168.png" group-title="APPS | AR ALGERIA",DZ - EL ADJWAA TV | APPS TV
-http://dummy/stream/573168
-#EXTINF:-1 tvg-id="249853" tvg-logo="http://51.158.145.100/picons/logos/arabic/249853.png" group-title="APPS | AR ALGERIA",DZ - EL DJAZAIRIA1 | APPS TV
-http://dummy/stream/249853
-#EXTINF:-1 tvg-id="556862" tvg-logo="http://51.158.145.100/picons/logos/arabic/556862.png" group-title="APPS | AR ALGERIA",DZ - AL SALAM | APPS TV
-http://dummy/stream/556862
-#EXTINF:-1 tvg-id="648876" tvg-logo="http://51.158.145.100/picons/logos/arabic/648876.png" group-title="APPS | AR ALGERIA",DZ - ALGERIE TV8 EDHAKIRA | APPS TV
-http://dummy/stream/648876
-#EXTINF:-1 tvg-id="753363" tvg-logo="http://51.158.145.100/picons/logos/arabic/753363.png" group-title="APPS | AR ALGERIA",DZ -  AL MAGHARIBIA | APPS TV
-http://dummy/stream/753363
+.EXTM3U
+#EXTINF:-1 tvg-id="249861" tvg-logo="http://51.158.145.100/picons/logos/arabic/249861.png" group-title="تطبيقات | AR الجزائر",DZ - الجزائر | تطبيقات التلفزيون
+249861
+#EXTINF:-1 tvg-id="249834" tvg-logo="http://51.158.145.100/picons/logos/arabic/249834.png" group-title="تطبيقات | AR ALGERIA",DZ - EN TV ALGERIE | APPS TV
+249834
+#EXTINF:-1 tvg-id="249841" tvg-logo="http://51.158.145.100/picons/logos/arabic/249841.png" group-title="تطبيقات | AR ALGERIA",DZ - A3 HD | APPS TV
+249841
+#EXTINF:-1 tvg-id="249835" tvg-logo="http://51.158.145.100/picons/logos/arabic/249835.png" group-title="تطبيقات | AR ALGERIA",DZ - CANAL ALGERIE | APPS TV
+249835
+#EXTINF:-1 tvg-id="249839" tvg-logo="http://51.158.145.100/picons/logos/arabic/249839.png" group-title="تطبيقات | AR ALGERIA",DZ - تلفزيون تمازيغ | تطبيقات تلفزيونية
+249839
+#EXTINF:-1 tvg-id="249847" tvg-logo="http://51.158.145.100/picons/logos/arabic/249847.png" group-title="تطبيقات | AR ALGERIA",DZ - TV CORAN | APPS TV
+249847
+#EXTINF:-1 tvg-id="556869" tvg-logo="http://51.158.145.100/picons/logos/arabic/556869.png" group-title="تطبيقات | AR ALGERIA",DZ - ALMAARIFA TV | APPS TV
+556869
+#EXTINF:-1 tvg-id="249838" tvg-logo="http://51.158.145.100/picons/logos/arabic/249838.png" group-title="تطبيقات | AR الجزائر",DZ - القناة 6 الجزائر | تطبيقات التلفزيون
+249838
+#EXTINF:-1 tvg-id="556860" tvg-logo="http://51.158.145.100/picons/logos/arabic/556860.png" group-title="تطبيقات | AR ALGERIA",DZ - تلفزيون وطني | تطبيقات تلفزيونية
+556860
+#EXTINF:-1 tvg-id="249843" tvg-logo="http://51.158.145.100/picons/logos/arabic/249843.png" group-title="تطبيقات | AR ALGERIA",DZ - ECHOROUK TV | APPS TV
+249843
+#EXTINF:-1 tvg-id="249845" tvg-logo="http://51.158.145.100/picons/logos/arabic/249845.png" group-title="تطبيقات | AR ALGERIA",DZ - ENNAHAR TV | APPS TV
+249845
+#EXTINF:-1 tvg-id="457168" tvg-logo="http://51.158.145.100/picons/logos/arabic/457168.png" group-title="تطبيقات | AR ALGERIA",DZ - EL HEDDAF TV | APPS TV
+457168
+#EXTINF:-1 tvg-id="249848" tvg-logo="http://51.158.145.100/picons/logos/arabic/249848.png" group-title="تطبيقات | AR ALGERIA",DZ - SAMIRA TV | APPS TV
+249848
+#EXTINF:-1 tvg-id="249844" tvg-logo="http://51.158.145.100/picons/logos/arabic/249844.png" group-title="تطبيقات | AR ALGERIA",DZ - أخبار الشروق | APPS TV
+249844
+#EXTINF:-1 tvg-id="716947" tvg-logo="http://51.158.145.100/picons/logos/arabic/716947.png" group-title="تطبيقات | AR ALGERIA",DZ - AMOU YAZID TOFOLA TV | APPS TV
+716947
+#EXTINF:-1 tvg-id="656033" tvg-logo="http://51.158.145.100/picons/logos/arabic/656033.png" group-title="تطبيقات | AR ALGERIA",DZ - Zahra TV | APPS TV
+656033
+#EXTINF:-1 tvg-id="249858" tvg-logo="http://51.158.145.100/picons/logos/arabic/249858.png" group-title="تطبيقات | AR ALGERIA",DZ - BEUR TV | APPS TV
+249858
+#EXTINF:-1 tvg-id="249860" tvg-logo="http://51.158.145.100/picons/logos/arabic/249860.png" group-title="تطبيقات | AR الجزائر",DZ - الحياة تلفزيون الجزائر | تطبيقات تلفزيونية
+249860
+#EXTINF:-1 tvg-id="249855" tvg-logo="http://51.158.145.100/picons/logos/arabic/249855.png" group-title="تطبيقات | AR ALGERIA",DZ - BAHYA TV | APPS TV
+249855
+#EXTINF:-1 tvg-id="249859" tvg-logo="http://51.158.145.100/picons/logos/arabic/249859.png" group-title="تطبيقات | AR ALGERIA",DZ - BERBE TV | APPS TV
+249859
+#EXTINF:-1 tvg-id="249854" tvg-logo="http://51.158.145.100/picons/logos/arabic/249854.png" group-title="تطبيقات | AR ALGERIA",DZ - EL DJAZAIRIA TV | APPS TV
+249854
+#EXTINF:-1 tvg-id="556864" tvg-logo="http://51.158.145.100/picons/logos/arabic/556864.png" group-title="تطبيقات | AR ALGERIA",DZ - El Djazair N1 | APPS TV
+556864
+#EXTINF:-1 tvg-id="249856" tvg-logo="http://51.158.145.100/picons/logos/arabic/249856.png" group-title="تطبيقات | AR ALGERIA",DZ - AL MAGHARIBIA | APPS TV
+249856
+#EXTINF:-1 tvg-id="249857" tvg-logo="http://51.158.145.100/picons/logos/arabic/249857.png" group-title="تطبيقات | الجزائر" - قناة البلاد | تطبيقات تلفزيونية
+249857
+#EXTINF:-1 tvg-id="558042" tvg-logo="http://51.158.145.100/picons/logos/arabic/558042.png" group-title="تطبيقات | الجزائر"DZ - AL ANIS TV | APPS TV
+558042
+#EXTINF:-1 tvg-id="698790" tvg-logo="http://51.158.145.100/picons/logos/arabic/698790.png" group-title="تطبيقات | AR ALGERIA",DZ - EL FAJR DRAMA | APPS TV
+698790
+#EXTINF:-1 tvg-id="1079359" tvg-logo="http://51.158.145.100/picons/logos/arabic/1079359.png" group-title="تطبيقات | AR ALGERIA",DZ - ALGERIA ONE TV HD | APPS TV
+1079359
+#EXTINF:-1 tvg-id="249837" tvg-logo="http://51.158.145.100/picons/logos/arabic/249837.png" group-title="تطبيقات | AR ALGERIA",DZ - ALGERIA TV CORAN | APPS TV
+249837
+#EXTINF:-1 tvg-id="698792" tvg-logo="http://51.158.145.100/picons/logos/arabic/698792.png" group-title="تطبيقات | AR ALGERIA",DZ - ALGERIAN 4KIDS | APPS TV
+698792
+#EXTINF:-1 tvg-id="648877" tvg-logo="http://51.158.145.100/picons/logos/arabic/648877.png" group-title="تطبيقات | AR ALGERIA",DZ - AL24 NEWS | APPS TV
+648877
+#EXTINF:-1 tvg-id="249852" tvg-logo="http://51.158.145.100/picons/logos/arabic/249852.png" group-title="تطبيقات | AR ALGERIA",DZ - DZAIR JANNAH | APPS TV
+249852
+#EXTINF:-1 tvg-id="249846" tvg-logo="http://51.158.145.100/picons/logos/arabic/249846.png" group-title="تطبيقات | AR ALGERIA",DZ - MISR QURAN KAREEM | APPS TV
+249846
+#EXTINF:-1 tvg-id="249836" tvg-logo="http://51.158.145.100/picons/logos/arabic/249836.png" group-title="تطبيقات | AR ALGERIA",DZ - TV5 MONDE STYLE | APPS TV
+249836
+#EXTINF:-1 tvg-id="556868" tvg-logo="http://51.158.145.100/picons/logos/arabic/556868.png" group-title="تطبيقات | AR ALGERIA",DZ - ALGÉRIE CANAL TV 2 | APPS TV
+556868
+#EXTINF:-1 tvg-id="720724" tvg-logo="http://51.158.145.100/picons/logos/arabic/720724.png" group-title="تطبيقات | AR ALGERIA",DZ - EL FAJR DRAMA | APPS TV
+720724
+#EXTINF:-1 tvg-id="556867" tvg-logo="http://51.158.145.100/picons/logos/arabic/556867.png" group-title="تطبيقات | AR ALGERIA",DZ - BEUR TV | APPS TV
+556867
+#EXTINF:-1 tvg-id="556861" tvg-logo="http://51.158.145.100/picons/logos/arabic/556861.png" group-title="تطبيقات | الجزائر"، DZ - الصحراء | تطبيقات تلفزيونية
+556861
+#EXTINF:-1 tvg-id="573169" tvg-logo="http://51.158.145.100/picons/logos/arabic/573169.png" group-title="تطبيقات | AR ALGERIA",DZ - ELDJAZAIR N1 TV | APPS TV
+573169
+#EXTINF:-1 tvg-id="573168" tvg-logo="http://51.158.145.100/picons/logos/arabic/573168.png" group-title="تطبيقات | AR ALGERIA",DZ - EL ADJWAA TV | APPS TV
+573168
+#EXTINF:-1 tvg-id="249853" tvg-logo="http://51.158.145.100/picons/logos/arabic/249853.png" group-title="تطبيقات | AR ALGERIA",DZ - EL DJAZAIRIA1 | APPS TV
+249853
+#EXTINF:-1 tvg-id="556862" tvg-logo="http://51.158.145.100/picons/logos/arabic/556862.png" group-title="تطبيقات | AR ALGERIA",DZ - AL SALAM | APPS TV
+556862
+#EXTINF:-1 tvg-id="648876" tvg-logo="http://51.158.145.100/picons/logos/arabic/648876.png" group-title="تطبيقات | AR ALGERIA",DZ - ALGERIE TV8 EDHAKIRA | APPS TV
+648876
+#EXTINF:-1 tvg-id="753363" tvg-logo="http://51.158.145.100/picons/logos/arabic/753363.png" group-title="تطبيقات | AR ALGERIA",DZ - AL MAGHARIBIA | APPS TV
+753363
